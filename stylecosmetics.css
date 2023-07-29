@@ -12,11 +12,11 @@ body {
 
 .banner{
     background-image:url(./image/banner.jpg);
-    height: 100vh;
+    height: 47rem;
+    display: flex;
     background-size:cover ;
     overflow: hidden;
     margin: auto;
-    justify-content:center ;
     align-items: center;
     color: white;
     margin-bottom: 120px;
